@@ -27,4 +27,4 @@ This project is a **Spring Boot** application that allows users to upload, downl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/s3-file-uploader.git
+   git clone https://github.com/your-username/s3-fileUploader.git
